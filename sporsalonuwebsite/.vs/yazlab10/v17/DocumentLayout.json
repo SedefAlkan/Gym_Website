@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kiloalma.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\kiloalma.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kiloalma.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\kiloalma.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kayit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\kayit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kayit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\kayit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\giris.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\giris.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\giris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\giris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\fitness.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\fitness.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\fitness.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\fitness.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\eslesme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\eslesme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\eslesme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\eslesme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\egzersizprog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\egzersizprog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\egzersizprog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\egzersizprog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\danisan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\danisan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\danisan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\danisan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\antrenor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\antrenor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\antrenor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\antrenor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kayit.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\kayit.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{91D9CDED-5A76-42CB-8540-6609CB797EEF}|yazlab10\\yazlab10.csproj|solutionrelative:yazlab10\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kayit.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kayit.aspx",
+              "RelativeDocumentMoniker": "yazlab10\\kayit.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kayit.aspx",
+              "RelativeToolTip": "yazlab10\\kayit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2023-11-29T21:41:00.027Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kayit.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kayit.aspx.cs",
+              "RelativeDocumentMoniker": "yazlab10\\kayit.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kayit.aspx.cs",
+              "RelativeToolTip": "yazlab10\\kayit.aspx.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-11-29T21:41:05.609Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "giris.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\giris.aspx.cs",
+              "RelativeDocumentMoniker": "yazlab10\\giris.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\giris.aspx.cs",
+              "RelativeToolTip": "yazlab10\\giris.aspx.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-11-30T23:22:59.342Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kiloalma.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kiloalma.aspx.cs",
+              "RelativeDocumentMoniker": "yazlab10\\kiloalma.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kiloalma.aspx.cs",
+              "RelativeToolTip": "yazlab10\\kiloalma.aspx.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAwwNYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-12-05T12:55:35.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "yazlab10\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\WebForm2.aspx",
+              "RelativeToolTip": "yazlab10\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2023-11-28T00:37:48.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "yazlab10\\WebForm2.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\WebForm2.aspx.cs",
+              "RelativeToolTip": "yazlab10\\WebForm2.aspx.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwD4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T20:37:18.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kiloalma.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kiloalma.aspx",
+              "RelativeDocumentMoniker": "yazlab10\\kiloalma.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kiloalma.aspx",
+              "RelativeToolTip": "yazlab10\\kiloalma.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2023-12-05T12:40:03.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "giris.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\giris.aspx",
+              "RelativeDocumentMoniker": "yazlab10\\giris.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\giris.aspx",
+              "RelativeToolTip": "yazlab10\\giris.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2023-11-30T22:28:46.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fitness.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\fitness.aspx.cs",
+              "RelativeDocumentMoniker": "yazlab10\\fitness.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\fitness.aspx.cs",
+              "RelativeToolTip": "yazlab10\\fitness.aspx.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAwwNwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-12-05T12:50:02.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fitness.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\fitness.aspx",
+              "RelativeDocumentMoniker": "yazlab10\\fitness.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\fitness.aspx",
+              "RelativeToolTip": "yazlab10\\fitness.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2023-12-05T12:40:20.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "eslesme.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\eslesme.aspx.cs",
+              "RelativeDocumentMoniker": "yazlab10\\eslesme.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\eslesme.aspx.cs",
+              "RelativeToolTip": "yazlab10\\eslesme.aspx.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAwwIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-12-03T19:52:47.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "eslesme.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\eslesme.aspx",
+              "RelativeDocumentMoniker": "yazlab10\\eslesme.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\eslesme.aspx",
+              "RelativeToolTip": "yazlab10\\eslesme.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2023-12-03T19:52:00.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "egzersizprog.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\egzersizprog.aspx.cs",
+              "RelativeDocumentMoniker": "yazlab10\\egzersizprog.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\egzersizprog.aspx.cs",
+              "RelativeToolTip": "yazlab10\\egzersizprog.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwNoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-12-05T01:57:25.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "egzersizprog.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\egzersizprog.aspx",
+              "RelativeDocumentMoniker": "yazlab10\\egzersizprog.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\egzersizprog.aspx",
+              "RelativeToolTip": "yazlab10\\egzersizprog.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2023-12-03T17:02:51.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "danisan.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\danisan.aspx.cs",
+              "RelativeDocumentMoniker": "yazlab10\\danisan.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\danisan.aspx.cs",
+              "RelativeToolTip": "yazlab10\\danisan.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-12-05T18:30:24.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "danisan.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\danisan.aspx",
+              "RelativeDocumentMoniker": "yazlab10\\danisan.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\danisan.aspx",
+              "RelativeToolTip": "yazlab10\\danisan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2023-12-05T12:42:02.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "antrenor.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\antrenor.aspx.cs",
+              "RelativeDocumentMoniker": "yazlab10\\antrenor.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\antrenor.aspx.cs",
+              "RelativeToolTip": "yazlab10\\antrenor.aspx.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAcwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-12-01T21:37:41.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "antrenor.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\antrenor.aspx",
+              "RelativeDocumentMoniker": "yazlab10\\antrenor.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\antrenor.aspx",
+              "RelativeToolTip": "yazlab10\\antrenor.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2023-12-01T21:30:43.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "kayit.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kayit.aspx.designer.cs",
+              "RelativeDocumentMoniker": "yazlab10\\kayit.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\kayit.aspx.designer.cs",
+              "RelativeToolTip": "yazlab10\\kayit.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-11-29T23:24:41.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\Views\\Web.config",
+              "RelativeDocumentMoniker": "yazlab10\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\c#\\yazlab10\\yazlab10\\Views\\Web.config",
+              "RelativeToolTip": "yazlab10\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2023-11-30T01:28:48.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
